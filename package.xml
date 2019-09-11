@@ -5,6 +5,10 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
     
     <version>46.0</version>
 </Package>
